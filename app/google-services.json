@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083363476550",
+    "project_id": "com-example-mindslaver-170c5",
+    "storage_bucket": "com-example-mindslaver-170c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083363476550:android:9d9167dc2d41d23733b647",
+        "android_client_info": {
+          "package_name": "com.example.mindslaver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjbpQidRitr_iU0YmXtiS_HlE6_Gx7Ngc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
